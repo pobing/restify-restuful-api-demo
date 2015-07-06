@@ -1,0 +1,20 @@
+{
+  "name": "restify-restuful-api-demo",
+  "version": "1.0.0",
+  "description": "restful-api with restify,mongojs and coffeescrpit.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "build": "/usr/local/bin/coffee -c -o ./app/ ./app/src/"
+  },
+  "keywords": [
+    "restify",
+    "restful-api"
+  ],
+  "author": "pobing",
+  "license": "ISC",
+  "devDependencies": {
+    "mongojs": "^1.0.2",
+    "restify": "^3.0.3"
+  }
+}
