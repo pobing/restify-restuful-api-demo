@@ -1,6 +1,6 @@
 # restify restful api demo
 
-Simple restful api demo with restify,mongojs, build with coffeescript.
+Simple restful api demo with restify,mongojs, code with coffeescript.
 
 ## Install
 
